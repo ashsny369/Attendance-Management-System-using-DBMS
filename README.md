@@ -1,2 +1,2 @@
-# Attendance-Management-System-using-DBMS
+﻿# Attendance_Logger
 https://attendancems.netlify.app/
